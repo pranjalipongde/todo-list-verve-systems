@@ -1,0 +1,26 @@
+.item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 13px;
+    width: 180px;
+    height: 20px;
+    border: 1px solid lightcyan;
+    border-radius: 2px;
+    padding: 10px;
+    background: lightsalmon;
+}
+
+.item p {
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+
+.item button {
+    width: 20px;
+    height: 20px;
+    border-radius: 2%;
+    padding:  2px;
+    outline: none;
+}
